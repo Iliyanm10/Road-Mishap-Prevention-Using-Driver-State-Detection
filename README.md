@@ -1,0 +1,3 @@
+This project involved four of us as groupmates and a mentor to support throughout its working. It was associated with our university. Topic mainly based on Computer Vision and Natural Language Proocessing and even aimed to develop a system that can track a driver's health in
+real time and take preemptive measures to reduce accidents caused by driving impairment, distraction, or drowsiness. It was moving on with the AI system's driver state detection and adding an early warning system, i.e., a virtual assistant using NLP, testing and validating the system's
+effectiveness, and integrating the system in various vehicles. It was a large-scale project that dealt with hardware and software while assuring compliance with relevant safety norms and standards
